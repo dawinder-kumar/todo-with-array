@@ -1,0 +1,154 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+html
+{
+    height: 100%;
+}
+
+header
+{
+    text-align: center;
+    background-color:lightgoldenrodyellow;
+}
+.header
+{
+    height: 3.5rem;
+    background-color: black;
+    color: #fafafa;
+}
+#input
+{
+    height: 1.5rem;
+}
+article
+{
+    background-color: white;
+    padding-left: 2rem;
+}
+
+.inline-block
+{
+    display: inline-block;
+}
+.inline
+{
+    display: inline;
+}
+.block
+{
+    display: block;
+}
+ul{
+    text-align: center;
+}
+h2{
+    display: inline;
+    padding: 1rem;
+}
+.project-heading
+{
+    background-color:whitesmoke;
+    width: 99%;
+    
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+
+}
+#input
+{
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+#ul
+{
+    list-style: none;
+}
+.box
+{
+    width: 30%;
+    text-align: center;
+    display: inline-table;
+    padding: 1rem;
+    height: 542px;
+    background-color:	#F0FFFF;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    margin:0.3rem;
+}
+ .box li{
+    margin: 1rem;
+    text-align: left;
+}
+button
+{
+    
+    margin-left: 0.6rem;
+    width: 3rem;
+    border-radius: 0.5rem;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    -ms-border-radius: 0.5rem;
+    -o-border-radius: 0.5rem;
+}
+button:hover
+{
+    background-color:lightseagreen;
+}
+li
+{
+    list-style: none;
+}
+ul button{
+ border: none;
+ display: inline-block;
+ width: 4rem;
+ height: 1rem;
+}
+.box button{
+    color: green;
+    height: 1.5rem;
+}
+#box1
+{
+    max-width:95% ;
+}
+#count
+{
+    color: red;
+    font-weight: 900;
+}
+#box3 li
+{
+    text-decoration: line-through;
+}
+#box2 button
+{
+    display: inline-block;
+}
+#done-button
+{
+    width: 4rem;
+
+}
+li button{
+    float: right;
+    clear: left;
+}
